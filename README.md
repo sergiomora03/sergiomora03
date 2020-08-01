@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**sergiomora03/sergiomora03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some ideas to get started:
 
 - 🔭 I’m currently working on Machine Learning Systems.
 - 🌱 I’m currently learning NLP to improve university systems.
@@ -12,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about machine learning systems, dashboards, Rest APIs, analytics maturity curve and descriptive, predictive, prescriptive problems.
 - 📫 How to reach me: sergiomora823@gmail.com
 - 😄 Pronouns: always -> '*our* system'.
-- ⚡ Fun fact: I know a joke with Python, but I think this isn't the environment. ::smile::
--->
+- ⚡ Fun fact: I know a joke with Python, but I think this isn't the environment. ::smile:: ✨
+
