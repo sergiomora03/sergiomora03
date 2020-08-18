@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is my [resume](https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton). More about me in [sergiomora03.github.io](https://sergiomora03.github.io/)
+This is my [resume](https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton). More about me: [sergiomora03.github.io](https://sergiomora03.github.io/)
 
 - 🔭 I’m currently working on Machine Learning Systems.
 - 🌱 I’m currently learning NLP to improve university systems.
