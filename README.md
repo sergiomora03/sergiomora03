@@ -3,7 +3,7 @@
 - :bowtie: Currently, Lead Data Scientist at [Politécnico Grancolombiano](https://www.poli.edu.co/)
 - 🎓 MSc Analytics | BSc in Economics
 - 🌱 Learning NLP and Transfer Learning!
-- 💬 Ask me about my package [BannerQuery](https://pypi.org/project/BannerQuery/) -> Check it! ```pip install BannerQuery``` :boom:
+- 💬 Ask me about my *Python library* [BannerQuery](https://pypi.org/project/BannerQuery/) -> Check it! ```pip install BannerQuery``` :boom:
 
 📫 How to reach me: [sergiomora03.github.io](https://sergiomora03.github.io/)
 
