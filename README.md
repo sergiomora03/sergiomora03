@@ -13,7 +13,9 @@ I know a joke with Python, but I don´t think this is the right the environment.
 &nbsp; &nbsp;
 <a href="mailto:sergiomora823@gmail.com" title="知乎"><img src="https://haifengjin.com/img/mail.svg" width="20"></a>
 &nbsp; &nbsp;
- This is my [resume](https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton). :eyes:
+<a href="https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" title="知乎"><img src="https://haifengjin.com/img/scholar.svg" width="20"></a>
+&nbsp; &nbsp;
+:eyes:
 
 <!--
 **sergiomora03/sergimora03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
