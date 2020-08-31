@@ -1,3 +1,5 @@
+![counter](https://enh3txfdxq3wx3i.m.pipedream.net)
+
 ### Hi there 👋
 
 - :bowtie: Currently, Lead Data Scientist at [Politécnico Grancolombiano](https://www.poli.edu.co/)
@@ -14,9 +16,13 @@ I know a joke with Python, but I don´t think this is the right the environment.
 &nbsp; &nbsp;
 <a href="https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" title="知乎"><img src="https://haifengjin.com/img/scholar.svg" width="20"></a>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=sergiomora03)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=BannerQuery)
+
 <!--
 **sergiomora03/sergimora03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://www.geeksforgeeks.org/how-to-add-a-readme-to-your-github-profile/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
