@@ -6,9 +6,11 @@
 - 🎓 MSc Analytics | BSc in Economics
 
 <p align='center'>
+<a href="https://sergiomora03.github.io/" title="GitHub"><img src="https://haifengjin.com/img/github.svg" width="30"></a>&nbsp; &nbsp;
+<a href="https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" title="Resume"><img src="https://haifengjin.com/img/scholar.svg" width="30"></a>
 <a href="https://dev.to/sergiomorapardo"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/sergiomora16"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/sergiomora123"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<!-- <a href="https://instagram.com/sergiomora123"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp; -->
 <a href="https://www.buymeacoffee.com/sergiomorapardo"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/sergiomorapardo//"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
