@@ -5,7 +5,7 @@
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
 <a href="https://dev.to/sergiomorapardo"><img height="20" src="https://avatars2.githubusercontent.com/u/13521919?s=200&v=4" width="20"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/sergiomora03"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true" width="20"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/sergiomora123"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true" width="20"></a>&nbsp;&nbsp; 
+<a href="https://instagram.com/sergiomora123"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true" width="20"></a>
 <a href="https://www.buymeacoffee.com/sergiomorapardo"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true" width="20"></a>
 <a href="https://www.linkedin.com/in/sergiomorapardo//"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true" width="20"></a>
 
