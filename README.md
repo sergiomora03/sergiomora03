@@ -1,6 +1,6 @@
 ![counter](https://enh3txfdxq3wx3i.m.pipedream.net)
 
-### Hi there 👋
+### Hi there, I'm [Sergio!](https://sergiomora03.github.io) 👋
 
 - :bowtie: Currently, Lead Data Scientist at [Politécnico Grancolombiano](https://www.poli.edu.co/)
 - 🎓 MSc Analytics | BSc in Economics
@@ -16,7 +16,23 @@ I know a joke with Python, but I don´t think this is the right the environment.
 <a href="https://www.linkedin.com/in/sergiomorapardo//"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sergiomora03)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiomora03&show_icons=true&include_all_commits=true" alt="sergio's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomora03&layout=compact&theme=radical" /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomora03&layout=compact" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=BannerQuery" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=sergiomora03.github.io" />
+</a>
 
 
 <!--
@@ -24,6 +40,7 @@ I know a joke with Python, but I don´t think this is the right the environment.
 
 https://www.geeksforgeeks.org/how-to-add-a-readme-to-your-github-profile/
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=sergiomora03)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=BannerQuery)
 
 <a href="https://www.linkedin.com/in/sergiomorapardo/" title="Linkedin"><img src="https://haifengjin.com/img/linkedin.svg" width="20"></a>
