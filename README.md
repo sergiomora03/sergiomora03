@@ -20,27 +20,32 @@ I know a joke with Python, but I don´t think this is the right the environment.
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://github.com/keras-team/keras-io/blob/master/theme/img/k-logo.png?raw=true"></code>
+<code><img height="20" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-notext.png?raw=true?raw=true"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/pandas-dev/pandas/094c7ca008643dae47fe64345c6cd04e3fc50d6d/web/pandas/static/img/pandas_mark.svg?raw=true?raw=true"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+<code><img height="20" src="https://github.com/rstudio/shiny/blob/master/man/figures/logo.png?raw=true"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <a href="https://github.com/sergiomora03/sergiomora03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiomora03&show_icons=true&include_all_commits=true&theme=default" alt="sergio's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiomora03&show_icons=true&include_all_commits=true&theme=dark" alt="sergio's github stats" />
 </a>
 <a href="https://github.com/sergiomora03/sergiomora03">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomora03&layout=compact&theme=radical" /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomora03&layout=compact&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomora03&layout=compact&theme=dark" />
 </a>
 
 <a href="https://github.com/sergiomora03/BannerQuery">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=BannerQuery&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=BannerQuery&theme=dark" />
 </a>    
 <a href="https://github.com/sergiomora03/sergiomora03.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=sergiomora03.github.io&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=sergiomora03.github.io&theme=dark" />
 </a>
 
 
