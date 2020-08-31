@@ -2,17 +2,28 @@
 
 ### Hi there, I'm [Sergio!](https://sergiomora03.github.io) 👋
 
-- :bowtie: Currently, Lead Data Scientist at [Politécnico Grancolombiano](https://www.poli.edu.co/)
-- 🎓 MSc Analytics | BSc in Economics
+&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+<a href="https://dev.to/sergiomorapardo"><img height="20" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png" width="20"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/sergiomora16"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true" width="20"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/sergiomora123"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true" width="20"></a>&nbsp;&nbsp; 
+<a href="https://www.buymeacoffee.com/sergiomorapardo"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true" width="20"></a>
+<a href="https://www.linkedin.com/in/sergiomorapardo//"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true" width="20"></a>
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/sergiomorapardo/" title="Linkedin"><img src="https://haifengjin.com/img/linkedin.svg" width="20"></a>&nbsp; &nbsp;
-<a href="https://sergiomora03.github.io/" title="GitHub"><img src="https://haifengjin.com/img/github.svg" width="20"></a>&nbsp; &nbsp;
-<a href="mailto:sergiomora823@gmail.com" title="E-mail"><img src="https://haifengjin.com/img/mail.svg" width="20"></a>&nbsp; &nbsp;
-<a href="https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" title="Resume"><img src="https://haifengjin.com/img/scholar.svg" width="20"></a></p>
+Hi, I´m Sergio Mora, a passionate Data Science and Natural Lenguaje Process from Colombia.
+
+- :bowtie: Currently, Lead Data Scientist at [Politécnico Grancolombiano](https://www.poli.edu.co/)
+- 🎓 MSc Analytics | BSc in Economics | [Machine Learning Enthusiast](https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 I am the main developer of [BannerQuery](https://pypi.org/project/BannerQuery/) project. Check it! ```pip install BannerQuery``` :boom: </br>
 I know a joke with Python, but I don´t think this is the right the environment. :laughing: ⚡
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <a href="https://github.com/sergiomora03/sergiomora03">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiomora03&show_icons=true&include_all_commits=true&theme=default" alt="sergio's github stats" />
@@ -43,11 +54,14 @@ https://www.geeksforgeeks.org/how-to-add-a-readme-to-your-github-profile/
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=BannerQuery)
 
 Opcion 1
-<a href="https://dev.to/sergiomorapardo"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/sergiomora16"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/sergiomora123"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp; 
-<a href="https://www.buymeacoffee.com/sergiomorapardo"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/sergiomorapardo//"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<p align='center'>
+<a href="https://dev.to/sergiomorapardo"><img height="20" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png" width="20"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/sergiomora16"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true" width="20"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/sergiomora123"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true" width="20"></a>&nbsp;&nbsp; 
+<a href="https://www.buymeacoffee.com/sergiomorapardo"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true" width="20"></a>
+<a href="https://www.linkedin.com/in/sergiomorapardo//"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true" width="20"></a>
+</p>
+
 
 Opción 2
 <a href="https://www.linkedin.com/in/sergiomorapardo/" title="Linkedin"><img src="https://haifengjin.com/img/linkedin.svg" width="20"></a>&nbsp; &nbsp;
