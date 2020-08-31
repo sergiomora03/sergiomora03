@@ -6,14 +6,10 @@
 - 🎓 MSc Analytics | BSc in Economics
 
 <p align='center'>
-<a href="https://sergiomora03.github.io/" title="GitHub"><img src="https://haifengjin.com/img/github.svg" width="30"></a>&nbsp; &nbsp;
-<a href="https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" title="Resume"><img src="https://haifengjin.com/img/scholar.svg" width="30"></a>
-<a href="https://dev.to/sergiomorapardo"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/sergiomora16"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<!-- <a href="https://instagram.com/sergiomora123"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp; -->
-<a href="https://www.buymeacoffee.com/sergiomorapardo"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/sergiomorapardo//"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
+<a href="https://www.linkedin.com/in/sergiomorapardo/" title="Linkedin"><img src="https://haifengjin.com/img/linkedin.svg" width="20"></a>&nbsp; &nbsp;
+<a href="https://sergiomora03.github.io/" title="GitHub"><img src="https://haifengjin.com/img/github.svg" width="20"></a>&nbsp; &nbsp;
+<a href="mailto:sergiomora823@gmail.com" title="E-mail"><img src="https://haifengjin.com/img/mail.svg" width="20"></a>&nbsp; &nbsp;
+<a href="https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" title="Resume"><img src="https://haifengjin.com/img/scholar.svg" width="20"></a></p>
 
 I am the main developer of [BannerQuery](https://pypi.org/project/BannerQuery/) project. Check it! ```pip install BannerQuery``` :boom: </br>
 I know a joke with Python, but I don´t think this is the right the environment. :laughing: ⚡
@@ -46,12 +42,17 @@ https://www.geeksforgeeks.org/how-to-add-a-readme-to-your-github-profile/
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sergiomora03)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=BannerQuery)
 
-<a href="https://www.linkedin.com/in/sergiomorapardo/" title="Linkedin"><img src="https://haifengjin.com/img/linkedin.svg" width="20"></a>
-&nbsp; &nbsp;
-<a href="https://sergiomora03.github.io/" title="GitHub"><img src="https://haifengjin.com/img/github.svg" width="20"></a>
-&nbsp; &nbsp;
-<a href="mailto:sergiomora823@gmail.com" title="E-mail"><img src="https://haifengjin.com/img/mail.svg" width="20"></a>
-&nbsp; &nbsp;
+Opcion 1
+<a href="https://dev.to/sergiomorapardo"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/sergiomora16"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/sergiomora123"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp; 
+<a href="https://www.buymeacoffee.com/sergiomorapardo"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/sergiomorapardo//"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+
+Opción 2
+<a href="https://www.linkedin.com/in/sergiomorapardo/" title="Linkedin"><img src="https://haifengjin.com/img/linkedin.svg" width="20"></a>&nbsp; &nbsp;
+<a href="https://sergiomora03.github.io/" title="GitHub"><img src="https://haifengjin.com/img/github.svg" width="20"></a>&nbsp; &nbsp;
+<a href="mailto:sergiomora823@gmail.com" title="E-mail"><img src="https://haifengjin.com/img/mail.svg" width="20"></a>&nbsp; &nbsp;
 <a href="https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" title="Resume"><img src="https://haifengjin.com/img/scholar.svg" width="20"></a>
 
 
