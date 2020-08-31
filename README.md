@@ -1,7 +1,5 @@
 ![counter](https://enh3txfdxq3wx3i.m.pipedream.net)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sergiomora03)
-
 ### Hi there 👋
 
 - :bowtie: Currently, Lead Data Scientist at [Politécnico Grancolombiano](https://www.poli.edu.co/)
@@ -12,12 +10,13 @@ I know a joke with Python, but I don´t think this is the right the environment.
 
 <a href="https://www.linkedin.com/in/sergiomorapardo/" title="Linkedin"><img src="https://haifengjin.com/img/linkedin.svg" width="20"></a>
 &nbsp; &nbsp;
-<a href="https://sergiomora03.github.io/" title="知乎"><img src="https://haifengjin.com/img/github.svg" width="20"></a>
+<a href="https://sergiomora03.github.io/" title="GitHub"><img src="https://haifengjin.com/img/github.svg" width="20"></a>
 &nbsp; &nbsp;
-<a href="mailto:sergiomora823@gmail.com" title="知乎"><img src="https://haifengjin.com/img/mail.svg" width="20"></a>
+<a href="mailto:sergiomora823@gmail.com" title="E-mail"><img src="https://haifengjin.com/img/mail.svg" width="20"></a>
 &nbsp; &nbsp;
-<a href="https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" title="知乎"><img src="https://haifengjin.com/img/scholar.svg" width="20"></a>
+<a href="https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" title="Resume"><img src="https://haifengjin.com/img/scholar.svg" width="20"></a>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=sergiomora03)
 
 
 <!--
