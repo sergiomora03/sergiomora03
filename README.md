@@ -9,6 +9,8 @@
 <a href="https://www.buymeacoffee.com/sergiomorapardo"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true" width="20"></a>
 <a href="https://www.linkedin.com/in/sergiomorapardo//"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true" width="20"></a>
 
+---
+
 Hi, I´m Sergio Mora, a passionate Data Science and Natural Lenguaje Process from Colombia.
 
 - :bowtie: Currently, Lead Data Scientist at [Politécnico Grancolombiano](https://www.poli.edu.co/)
