@@ -1,6 +1,6 @@
 ![counter](https://enh3txfdxq3wx3i.m.pipedream.net)
 
-### Hi there, I'm [Sergio!](https://sergiomora03.github.io) 👋
+### Hi there, I'm [Sergio!](|) 👋
 
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
 <a href="https://dev.to/sergiomorapardo"><img height="20" src="https://avatars2.githubusercontent.com/u/13521919?s=200&v=4" width="20"></a>&nbsp;&nbsp;
@@ -31,7 +31,7 @@ I know a joke with Python, but I don´t think this is the right the environment.
 
 ---
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of _github-readme-stats_*  
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of _github-readme-stats_. If you want to know more about me, check my [portfolio](https://sergiomora03.github.io)*  
 
 <a href="https://github.com/sergiomora03/sergiomora03">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiomora03&show_icons=true&include_all_commits=true&theme=dark" alt="sergio's github stats" />
