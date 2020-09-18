@@ -31,7 +31,7 @@ I know a joke with Python, but I don´t think this is the right the environment.
 
 ---
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*  
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of _github-readme-stats_*  
 
 <a href="https://github.com/sergiomora03/sergiomora03">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiomora03&show_icons=true&include_all_commits=true&theme=dark" alt="sergio's github stats" />
