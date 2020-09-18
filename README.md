@@ -1,6 +1,6 @@
 ![counter](https://enh3txfdxq3wx3i.m.pipedream.net)
 
-### Hi there, I'm [Sergio!](|) 👋
+### Hi there, I'm [Sergio!](https://sergiomora03.github.io) 👋
 
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
 <a href="https://dev.to/sergiomorapardo"><img height="20" src="https://avatars2.githubusercontent.com/u/13521919?s=200&v=4" width="20"></a>&nbsp;&nbsp;
