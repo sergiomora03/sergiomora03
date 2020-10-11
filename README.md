@@ -14,7 +14,7 @@
 Hi, I´m Sergio Mora, a passionate Data Science and Natural Lenguaje Process from Colombia.
 
 - :bowtie: Currently, Lead Data Scientist at [Politécnico Grancolombiano](https://www.poli.edu.co/)
-- 🎓 MSc Analytics | BSc in Economics | [Machine Learning Enthusiast](https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- 🎓 MSc Analytics | BSc in Economics | [Machine Learning Enthusiast](https://www.canva.com/design/DAEKCaCzdRk/ZD3DNaUAtgvBrMk7xrFdFg/view?utm_content=DAEKCaCzdRk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 I am the main developer of [BannerQuery](https://pypi.org/project/BannerQuery/) project. Check it! ```pip install BannerQuery``` :boom: <a href="https://www.buymeacoffee.com/sergiomorapardo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="100" ></a></br>
 I know a joke with Python, but I don´t think this is the right the environment. :laughing: ⚡
