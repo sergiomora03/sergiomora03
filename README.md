@@ -17,9 +17,12 @@ Hi, I´m Sergio Mora, a passionate Data Science and Natural Lenguaje Process fro
 - 🎓 MSc Analytics | BSc in Economics | [Machine Learning Enthusiast](https://www.canva.com/design/DAEKCaCzdRk/ZD3DNaUAtgvBrMk7xrFdFg/view?utm_content=DAEKCaCzdRk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 I am the main developer of [BannerQuery](https://pypi.org/project/BannerQuery/) project. Check it! ```pip install BannerQuery``` :boom: <a href="https://www.buymeacoffee.com/sergiomorapardo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="100" ></a></br>
+
+*Check my [portfolio](https://sergiomora03.github.io)*  :facepunch:
+
 I know a joke with Python, but I don´t think this is the right the environment. :laughing: ⚡
 
-**Languages and Tools:**
+## Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://github.com/keras-team/keras-io/blob/master/theme/img/k-logo.png?raw=true"></code>
@@ -29,9 +32,7 @@ I know a joke with Python, but I don´t think this is the right the environment.
 <code><img height="20" src="https://github.com/rstudio/shiny/blob/master/man/figures/logo.png?raw=true"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
----
-
-*Check my [portfolio](https://sergiomora03.github.io)*  
+## Stats
 
 <div>
   <a href="/sergiomora03" align="left">
