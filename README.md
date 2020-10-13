@@ -31,7 +31,18 @@ I know a joke with Python, but I don´t think this is the right the environment.
 
 ---
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of _github-readme-stats_. If you want to know more about me, check my [portfolio](https://sergiomora03.github.io)*  
+*Check my [portfolio](https://sergiomora03.github.io)*  
+
+<div>
+  <a href="/cr0wg4n" align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=cr0wg4n&count_private=true&show_icons=true&icon_color=586069&title_color=42a4f0&text_color=586069&hide=issues&hide_border=true" />
+  </a>
+  <a href="/cr0wg4n" align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr0wg4n&text_color=586069&layout=compact&hide_border=true&title_color=42a4f0" />
+  </a>
+</div>
+
+<!--
 
 <a href="https://github.com/sergiomora03/sergiomora03">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiomora03&show_icons=true&include_all_commits=true&theme=dark" alt="sergio's github stats" />
@@ -51,6 +62,7 @@ I know a joke with Python, but I don´t think this is the right the environment.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=sergiomora03.github.io&theme=dark" />
 </a>
 
+-->
 
 <!--
 
