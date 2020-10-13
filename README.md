@@ -34,38 +34,29 @@ I know a joke with Python, but I don´t think this is the right the environment.
 *Check my [portfolio](https://sergiomora03.github.io)*  
 
 <div>
-  <a href="/cr0wg4n" align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=cr0wg4n&count_private=true&show_icons=true&icon_color=586069&title_color=42a4f0&text_color=586069&hide=issues&hide_border=true" />
+  <a href="/sergiomora03" align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=sergiomora03&count_private=true&show_icons=true&icon_color=586069&title_color=42a4f0&text_color=586069&hide=issues&hide_border=true" />
   </a>
-  <a href="/cr0wg4n" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr0wg4n&text_color=586069&layout=compact&hide_border=true&title_color=42a4f0" />
+  <a href="/sergiomora03" align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomora03&text_color=586069&layout=compact&hide_border=true&title_color=42a4f0" />
   </a>
 </div>
 
 <!--
-
 <a href="https://github.com/sergiomora03/sergiomora03">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiomora03&show_icons=true&include_all_commits=true&theme=dark" alt="sergio's github stats" />
 </a>
 <a href="https://github.com/sergiomora03/sergiomora03">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomora03&layout=compact&theme=radical" /> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomora03&layout=compact&theme=dark" />
 </a>
-
 <a href="https://github.com/sergiomora03/BannerQuery">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=BannerQuery&theme=dark" />
 </a>    
 <a href="https://github.com/sergiomora03/sergiomora03.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=sergiomora03.github.io&theme=dark" />
-</a>
-
--->
+</a> -->
 
 <!--
-
 **sergiomora03/sergimora03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 https://www.geeksforgeeks.org/how-to-add-a-readme-to-your-github-profile/
