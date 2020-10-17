@@ -5,6 +5,7 @@
 
 <!--- ![counter](https://enh3txfdxq3wx3i.m.pipedream.net) --->
 
+<p align="center"> 
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
 <a href="https://dev.to/sergiomorapardo"><img align="center" height="20" src="https://avatars2.githubusercontent.com/u/13521919?s=200&v=4" width="20"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/sergiomora03"><img align="center" height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true" width="20"></a>&nbsp;&nbsp;
@@ -13,13 +14,16 @@
 <a href="https://www.linkedin.com/in/sergiomorapardo//"><img align="center" height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true" width="20"></a>
 <a href="https://kaggle.com/https://www.kaggle.com/sergiomora823" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/sergiomora823" height="20" width="20" /></a>
 <a href="https://medium.com/@sergiomora823" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sergiomora823" height="20" width="20" /></a>
+</p>
 
 - :bowtie: Currently, Lead Data Scientist at [Politécnico Grancolombiano](https://www.poli.edu.co/)
 - 🎓 MSc Analytics | BSc in Economics | [Machine Learning Enthusiast](https://www.canva.com/design/DAEKCaCzdRk/ZD3DNaUAtgvBrMk7xrFdFg/view?utm_content=DAEKCaCzdRk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-- Main developer of [BannerQuery](https://pypi.org/project/BannerQuery/) project. Check it! ```pip install BannerQuery``` :boom: <a href="https://www.buymeacoffee.com/sergiomorapardo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="100" ></a></br>
 - 📫 How to reach me [sergiomora823@gmail.com](mailto:sergiomora823@gmail.com) | Check my **[portfolio](https://sergiomora03.github.io)**  :facepunch: :facepunch:
+- Main developer of [BannerQuery](https://pypi.org/project/BannerQuery/) project. Check it! ```pip install BannerQuery``` :boom: <a href="https://www.buymeacoffee.com/sergiomorapardo" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="100" ></a></br>
 
 I know a joke with Python, but I don´t think this is the right the environment. :laughing: ⚡
+
+</br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://github.com/keras-team/keras-io/blob/master/theme/img/k-logo.png?raw=true"></code>
@@ -30,7 +34,7 @@ I know a joke with Python, but I don´t think this is the right the environment.
 <code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="20" src="https://github.com/rstudio/shiny/blob/master/man/figures/logo.png?raw=true"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<!--- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> --->
 
 <div>
   <a href="/sergiomora03" align="left">
