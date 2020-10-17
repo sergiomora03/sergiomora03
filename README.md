@@ -12,7 +12,7 @@
 <a href="https://instagram.com/sergiomora123"><img align="center" height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true" width="20"></a>
 <a href="https://www.buymeacoffee.com/sergiomorapardo"><img align="center" height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true" width="20"></a>
 <a href="https://www.linkedin.com/in/sergiomorapardo//"><img align="center" height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true" width="20"></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sergiomora823" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/sergiomora823" height="20" width="20" /></a>
+<a href="https://www.kaggle.com/sergiomora823" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/sergiomora823" height="20" width="20" /></a>
 <a href="https://medium.com/@sergiomora823" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sergiomora823" height="20" width="20" /></a>
 </p>
 
