@@ -1,7 +1,9 @@
-![counter](https://enh3txfdxq3wx3i.m.pipedream.net)
-
 <h1 align="center">Hi there, I'm <a href="https://sergiomora03.github.io">Sergio!</a> 👋</h1>
 <h3 align="center">A passionate Data Science and Natural Lenguaje Process from Colombia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiomora03" alt="sergiomora03" /> </p>
+
+<!--- ![counter](https://enh3txfdxq3wx3i.m.pipedream.net) --->
 
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
 <a href="https://dev.to/sergiomorapardo"><img align="center" height="20" src="https://avatars2.githubusercontent.com/u/13521919?s=200&v=4" width="20"></a>&nbsp;&nbsp;
