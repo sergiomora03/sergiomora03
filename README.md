@@ -26,17 +26,18 @@ I know a joke with Python, but I don´t think this is the right the environment.
 
 </br>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://github.com/keras-team/keras-io/blob/master/theme/img/k-logo.png?raw=true"></code>
-<code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/></code>
-<code><img height="30" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-notext.png?raw=true?raw=true"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/pandas-dev/pandas/094c7ca008643dae47fe64345c6cd04e3fc50d6d/web/pandas/static/img/pandas_mark.svg?raw=true?raw=true"></code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></code>
-<code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="30" src="https://github.com/rstudio/shiny/blob/master/man/figures/logo.png?raw=true"></code>
+<p align="center"> 
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="30" src="https://github.com/keras-team/keras-io/blob/master/theme/img/k-logo.png?raw=true">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/>
+<img height="30" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-notext.png?raw=true?raw=true">
+<img height="30" src="https://raw.githubusercontent.com/pandas-dev/pandas/094c7ca008643dae47fe64345c6cd04e3fc50d6d/web/pandas/static/img/pandas_mark.svg?raw=true?raw=true">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
+<img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
+<img height="30" src="https://github.com/rstudio/shiny/blob/master/man/figures/logo.png?raw=true">
 <!--- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> --->
-
+</p>
 
 <div>
   <a href="/sergiomora03" align="left">
