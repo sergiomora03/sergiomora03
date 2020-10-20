@@ -1,9 +1,4 @@
 <h1 align="center">Hi there, I'm <a href="https://sergiomora03.github.io">Sergio!</a> 👋</h1>
-<h3 align="center">A passionate Data Science and Natural Lenguaje Process from Colombia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiomora03" alt="sergiomora03" /> </p>
-
-<!--- ![counter](https://enh3txfdxq3wx3i.m.pipedream.net) --->
 
 <p align="center"> 
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
@@ -15,6 +10,12 @@
 <a href="https://www.kaggle.com/sergiomora823" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/sergiomora823" height="20" width="20" /></a>
 <a href="https://medium.com/@sergiomora823" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sergiomora823" height="20" width="20" /></a>
 </p>
+
+<h3 align="center">A passionate Data Science and Natural Lenguaje Process from Colombia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiomora03" alt="sergiomora03" /> </p>
+
+<!--- ![counter](https://enh3txfdxq3wx3i.m.pipedream.net) --->
 
 - :bowtie: Currently, Lead Data Scientist at [Politécnico Grancolombiano](https://www.poli.edu.co/)
 - 🎓 MSc Analytics | BSc in Economics | [Machine Learning Enthusiast](https://www.canva.com/design/DAEKCaCzdRk/ZD3DNaUAtgvBrMk7xrFdFg/view?utm_content=DAEKCaCzdRk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
@@ -35,6 +36,7 @@ I know a joke with Python, but I don´t think this is the right the environment.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="30" src="https://github.com/rstudio/shiny/blob/master/man/figures/logo.png?raw=true"></code>
 <!--- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> --->
+
 
 <div>
   <a href="/sergiomora03" align="left">
