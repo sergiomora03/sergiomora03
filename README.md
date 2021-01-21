@@ -36,7 +36,12 @@ I know a joke with Python, but I don´t think this is the right the environment.
 <img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
 <img height="30" src="https://github.com/rstudio/shiny/blob/master/man/figures/logo.png?raw=true">
-<!--- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> --->
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+<img height="30" src="https://github.com/docker/docker.github.io/blob/master/images/favicon.png">
+<img height="30" src="https://raw.githubusercontent.com/h2oai/wave/master/docs/img/logo.svg">
+<img height="30" src="https://raw.githubusercontent.com/plotly/dash/dev/dash/favicon.ico">
+
+
 </p>
 
 <div>
