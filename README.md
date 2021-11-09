@@ -20,7 +20,8 @@
 - :bowtie: Currently, Lead Data Scientist at [Politécnico Grancolombiano](https://www.poli.edu.co/)
 - 🎓 MSc Analytics | BSc in Economics | [Machine Learning Enthusiast](https://www.canva.com/design/DAEKCaCzdRk/ZD3DNaUAtgvBrMk7xrFdFg/view?utm_content=DAEKCaCzdRk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - 📫 How to reach me [sergiomora823@gmail.com](mailto:sergiomora823@gmail.com) | Check my **[portfolio](https://sergiomora03.github.io)**  :facepunch: :facepunch:
-- Main developer of [BannerQuery](https://pypi.org/project/BannerQuery/) project. Check it! ```pip install BannerQuery``` :boom: <a href="https://www.buymeacoffee.com/sergiomorapardo" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="100" ></a></br>
+- Developer of [Hyperpy](https://pypi.org/project/py-hyperpy/) project. Check it! ```pip install py-hyperpy``` :boom:
+- Developer of [BannerQuery](https://pypi.org/project/BannerQuery/) project. Check it! ```pip install BannerQuery``` :boom: <a href="https://www.buymeacoffee.com/sergiomorapardo" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="100" ></a></br>
 
 I know a joke with Python, but I don´t think this is the right the environment. :laughing: ⚡
 
