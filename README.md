@@ -17,7 +17,7 @@
 
 <!--- ![counter](https://enh3txfdxq3wx3i.m.pipedream.net) --->
 
-- :bowtie: Currently, Senior Data Scientist at @ Mercado Libre
+- :bowtie: Currently, Senior Data Scientist @ Mercado Libre
 - 🎓 MSc Analytics | BSc in Economics | [Machine Learning Enthusiast](https://www.canva.com/design/DAEKCaCzdRk/ZD3DNaUAtgvBrMk7xrFdFg/view?utm_content=DAEKCaCzdRk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - 📫 How to reach me [sergiomora823@gmail.com](mailto:sergiomora823@gmail.com) | Check my **[portfolio](https://sergiomora03.github.io)**  :facepunch: :facepunch:
 - Developer of [Hyperpy](https://pypi.org/project/py-hyperpy/) project. Check it! ```pip install py-hyperpy``` :boom:
