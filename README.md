@@ -1,23 +1,32 @@
+
+<!---
+
 <h1 align="center">Hi there, I'm <a href="https://sergiomora03.github.io">Sergio!</a> 👋</h1>
 
 <p align="center"> 
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
 <!--- <a href="https://dev.to/sergiomorapardo"><img align="center" height="20" src="https://avatars2.githubusercontent.com/u/13521919?s=200&v=4" width="20"></a>&nbsp;&nbsp; --->
-<a href="https://twitter.com/sergiomora03"><img align="center" height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true" width="20"></a>
+
+<!---<a href="https://twitter.com/sergiomora03"><img align="center" height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true" width="20"></a>
 <!---<a href="https://instagram.com/sergiomora123"><img align="center" height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true" width="20"></a>--->
-<a href="https://www.buymeacoffee.com/sergiomorapardo"><img align="center" height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true" width="20"></a>
+
+<!---<a href="https://www.buymeacoffee.com/sergiomorapardo"><img align="center" height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true" width="20"></a>
 <a href="https://www.linkedin.com/in/sergiomorapardo//"><img align="center" height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true" width="20"></a>
 <!---<a href="https://www.kaggle.com/sergiomora823" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/sergiomora823" height="20" width="20" /></a>
 <a href="https://medium.com/@sergiomora823" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sergiomora823" height="20" width="20" /></a>
 </p>--->
 
-<h3 align="center">A data scientist with passion for NLP from Colombia</h3>
+<h3 align="center">A Data Scientist from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiomora03" alt="sergiomora03" /> </p>
 
 <!--- ![counter](https://enh3txfdxq3wx3i.m.pipedream.net) --->
+[Hyperpy](https://pypi.org/project/py-hyperpy/) project. Check it! ```pip install py-hyperpy``` :boom:
 
-- :bowtie: Currently, Senior Data Scientist @ Mercado Libre
+I know a joke with Python, but I don´t think this is the right the environment. :laughing: ⚡
+
+
+<!---- :bowtie: Currently, Senior Data Scientist @ Mercado Libre
 - 🎓 MSc Analytics | BSc in Economics | [Machine Learning Enthusiast](https://www.canva.com/design/DAEKCaCzdRk/ZD3DNaUAtgvBrMk7xrFdFg/view?utm_content=DAEKCaCzdRk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - 📫 How to reach me [sergiomora823@gmail.com](mailto:sergiomora823@gmail.com) | Check my **[portfolio](https://sergiomora03.github.io)**  :facepunch: :facepunch:
 - Developer of [Hyperpy](https://pypi.org/project/py-hyperpy/) project. Check it! ```pip install py-hyperpy``` :boom:
